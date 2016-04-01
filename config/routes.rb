@@ -1,4 +1,14 @@
 Rails.application.routes.draw do
+  get 'bills/index'
+
+  get 'bills/show'
+
+  get 'bills/new'
+
+  get 'index/show'
+
+  get 'index/new'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
