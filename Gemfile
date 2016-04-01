@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
-
+gem 'react-rails'
+gem 'pry'
+gem 'materialize-sass'
+gem 'better_errors'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.2'
 # Use postgresql as the database for Active Record
