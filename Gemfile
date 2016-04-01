@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'haml-rails'
 gem 'react-rails'
 gem 'pry'
 gem 'materialize-sass'
